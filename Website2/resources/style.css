@@ -1,0 +1,59 @@
+body {
+  background-color: gray;
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+  }
+
+aside {
+  border: 3px dotted black;
+  width:  15%;
+}
+
+hr { 
+  margin-bottom: 0px; 
+}
+
+.img {
+  width: 40%;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  margin-left: 350px;
+}
+
+li {
+  font-size: 20px;
+}
+
+h1 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.bottom {
+  display: flex;
+  flex-direction: row;
+}
+
+.about {
+  width: 50%;
+  border-right: 3px solid black;
+}
+
+.hours {
+  width: 50%;
+}
+ 
+p {
+    font-size: 20px;
+    text-align: center;
+}
